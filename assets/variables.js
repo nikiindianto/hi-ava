@@ -1,5 +1,5 @@
 export default {
-  nicknames: ["Ava", "Babe", "Sayang", "Avakuu", "Cintuu"],
+  nicknames: "Salma Aprilia Putri", "Salma Baby Face", "Salma Cantik", "Salma Imut", "Salma Chan"],
   greetings: {
     evening: "Good Evening",
     afternoon: "Good Afternoon",

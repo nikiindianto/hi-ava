@@ -1,8 +1,5 @@
 export default {
-<<<<<<< HEAD
-  nicknames: ["SALMA ALRILIA PUTRI"],
-=======
-  nicknames: "Salma Aprilia Putri", "Salma Baby Face", "Salma Cantik", "Salma Imut", "Salma Chan"],
+  nicknames: ["Salma Cantik", "Salma imut", "Salma manis", "Salma ga bisa masak :v", "Salma chan"],
   greetings: {
     evening: "Good Evening",
     afternoon: "Good Afternoon",

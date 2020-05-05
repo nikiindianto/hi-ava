@@ -38,7 +38,7 @@
         class="vue-typed"
         :showCursor="false"
         :loop="true"
-        :strings="[greetings() + ', ' + nicknames + '! ^5000', 'Hai gadis berkerudung merah' :v ^2500', 'Jangan Menyerah']"
+        :strings="[greetings() + ', ' + nicknames + '! ^5000', 'Hai gadis berkerudung merah:v ^2500', 'Jangan Menyerah']"
         :backDelay="500"
         :typeSpeed="100"
         :backSpeed="20"

@@ -1,5 +1,5 @@
 export default {
-  nicknames: ["Salma Cantik", "Salma imut", "Salma manis", "Salma ga bisa masak :v", "Salma chan"],
+  nicknames: ["Habib Musthofa", "Habib X khadijah", "Habib X Ely", "Habib Bucin", "Habib lagi bucin"],
   greetings: {
     evening: "Good Evening",
     afternoon: "Good Afternoon",
